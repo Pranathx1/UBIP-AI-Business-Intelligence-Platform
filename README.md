@@ -100,7 +100,7 @@ UBIP/
 ## ▶️ How to Run
 
 ### 1. Clone the repository
-git clone https://github.com/your-username/UBIP-AI-Business-Intelligence-Platform.git
+git clone https://github.com/Pranathx1/UBIP-AI-Business-Intelligence-Platform.git
 
 
 ### 2. Navigate to the project folder
