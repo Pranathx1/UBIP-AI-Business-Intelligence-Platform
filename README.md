@@ -138,7 +138,8 @@ python -m streamlit run app.py
 ### Entity Resolution
 ![Entity](Entity.png)
 
-###More Screenshots: (Screenshot1.png) (Screenshot2.png) (Screenshot3.png)
+###More Screenshots 
+![Screenshot1](Screenshot1.png)
 ---
 
 ## 🌍 Real-World Impact
